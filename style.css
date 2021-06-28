@@ -1,3 +1,16 @@
+.logo{
+width:100px;
+}
+.navbar-nav a{
+    text-decoration: none;
+    color:rgba(0,0,0,.9);
+    margin: 0 5px 0 5px;
+    padding: .5rem 1rem;
+}
+.navbar-nav a:hover{
+    color:#80b40f;
+    font-weight:700;
+}
 .card-b{
     border: 0;
 }
@@ -9,9 +22,9 @@
     width:100px;
 }
 .carousoul-bg{
-    background-color: #fbeae8;
+    background-color: #a1e31730;
     border-radius: 2%;
-    border:4px solid #fbeae8;
+    border:4px solid #a1e31730;
 }
 .carousoul-bg img{
     width:80% !important;
